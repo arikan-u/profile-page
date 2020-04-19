@@ -30,6 +30,7 @@ img:hover {
 }
 
 h2 {
+    font-size: 45px;
     font-style: normal;
     text-align: justify;
     margin: 100px 0px;
@@ -41,7 +42,8 @@ h2 {
 #welcome {
     padding: 0px;
     text-align: justify;
-    text-decoration: wavy;
+    font-size: 40px;
+    font-style: normal;
 }
 
 .para1{
